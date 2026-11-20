@@ -1,0 +1,54 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/eruantien42/aetherforge-assets@main",
+  "heads": [
+    { "id": "human-m1", "name": "Apprentice (M)", "species": "Human", "file": "heads/human-m1.png", "x": 0, "y": -26, "scale": 0.44 },
+    { "id": "human-m2", "name": "Adventurer (M)", "species": "Human", "file": "heads/human-m2.png", "x": 0, "y": -26, "scale": 0.44 },
+    { "id": "human-m3", "name": "Archmage (M)", "species": "Human", "file": "heads/human-m3.png", "x": 0, "y": -26, "scale": 0.44 },
+    { "id": "human-f1", "name": "Young Mage (F)", "species": "Human", "file": "heads/human-f1.png", "x": 0, "y": -26, "scale": 0.44 },
+    { "id": "human-f2", "name": "Scholar (F)", "species": "Human", "file": "heads/human-f2.png", "x": 0, "y": -26, "scale": 0.44 },
+    { "id": "human-f3", "name": "Mystic (F)", "species": "Human", "file": "heads/human-f3.png", "x": 0, "y": -26, "scale": 0.44 }
+  ],
+  "outfits": [
+    { "id": "wizard-traveler", "name": "Traveler Coat", "classes": ["Wizard"], "file": "outfits/wizard-traveler.png", "x": 0, "y": 24, "scale": 1.0 },
+    { "id": "wizard-astral", "name": "Astral Academy", "classes": ["Wizard"], "file": "outfits/wizard-astral.png", "x": 0, "y": 24, "scale": 1.0 },
+    { "id": "wizard-battlemage", "name": "Battle-Mage", "classes": ["Wizard"], "file": "outfits/wizard-battlemage.png", "x": 0, "y": 24, "scale": 1.0 },
+    { "id": "wizard-archmage", "name": "Archmage Cloak", "classes": ["Wizard"], "file": "outfits/wizard-archmage.png", "x": 0, "y": 24, "scale": 1.0 }
+  ],
+  "hair": [
+    { "id": "hair-01", "name": "Short Crop", "file": "hair/hair-01.png", "x": 0, "y": -32, "scale": 0.46 },
+    { "id": "hair-02", "name": "Swept Scholar", "file": "hair/hair-02.png", "x": 0, "y": -32, "scale": 0.48 },
+    { "id": "hair-03", "name": "Wild Curls", "file": "hair/hair-03.png", "x": 0, "y": -32, "scale": 0.50 },
+    { "id": "hair-04", "name": "Parted Bob", "file": "hair/hair-04.png", "x": 0, "y": -26, "scale": 0.50 },
+    { "id": "hair-05", "name": "High Bun", "file": "hair/hair-05.png", "x": 0, "y": -35, "scale": 0.48 },
+    { "id": "hair-06", "name": "High Ponytail", "file": "hair/hair-06.png", "x": 3, "y": -32, "scale": 0.50 },
+    { "id": "hair-07", "name": "Braided Crown", "file": "hair/hair-07.png", "x": 0, "y": -30, "scale": 0.48 },
+    { "id": "hair-08", "name": "Side-Swept Layers", "file": "hair/hair-08.png", "x": 0, "y": -28, "scale": 0.50 },
+    { "id": "hair-09", "name": "Chin Waves", "file": "hair/hair-09.png", "x": 0, "y": -26, "scale": 0.52 }
+  ],
+  "beards": [
+    { "id": "beard-01", "name": "Short Trimmed", "file": "beards/beard-01.png", "x": 0, "y": -16, "scale": 0.34 },
+    { "id": "beard-02", "name": "Full Neat", "file": "beards/beard-02.png", "x": 0, "y": -15, "scale": 0.36 },
+    { "id": "beard-03", "name": "Long Archmage", "file": "beards/beard-03.png", "x": 0, "y": -10, "scale": 0.40 },
+    { "id": "beard-04", "name": "Arcane Goatee", "file": "beards/beard-04.png", "x": 0, "y": -16, "scale": 0.32 },
+    { "id": "beard-05", "name": "Braided Wizard", "file": "beards/beard-05.png", "x": 0, "y": -12, "scale": 0.38 },
+    { "id": "beard-06", "name": "Wide Mustache", "file": "beards/beard-06.png", "x": 0, "y": -18, "scale": 0.28 },
+    { "id": "beard-07", "name": "Chin Strap", "file": "beards/beard-07.png", "x": 0, "y": -16, "scale": 0.34 },
+    { "id": "beard-08", "name": "Chops & Stache", "file": "beards/beard-08.png", "x": 0, "y": -16, "scale": 0.34 },
+    { "id": "beard-09", "name": "Forked Sage", "file": "beards/beard-09.png", "x": 0, "y": -13, "scale": 0.38 }
+  ],
+  "backGear": [
+    { "id": "staff-crystal", "name": "Crystal Oak Staff", "file": "gear/staff-crystal.png", "x": 14, "y": -6, "scale": 0.95 },
+    { "id": "staff-astral", "name": "Astral Moon Staff", "file": "gear/staff-astral.png", "x": 14, "y": -6, "scale": 0.95 },
+    { "id": "staff-halberd", "name": "Battle-Mage Glaive", "file": "gear/staff-halberd.png", "x": 14, "y": -6, "scale": 0.95 },
+    { "id": "swords-crossed", "name": "Crossed Twin Swords", "file": "gear/swords-crossed.png", "x": 0, "y": -2, "scale": 0.85 },
+    { "id": "shield-kite", "name": "Filigree Kite Shield", "file": "gear/shield-kite.png", "x": -14, "y": 4, "scale": 0.65 },
+    { "id": "bow-quiver", "name": "Longbow & Quiver", "file": "gear/bow-quiver.png", "x": 4, "y": -4, "scale": 0.88 }
+  ],
+  "headwear": [
+    { "id": "hat-wizard", "name": "Pointed Wizard Hat", "file": "gear/hat-wizard.png", "x": 0, "y": -45, "scale": 0.65 },
+    { "id": "circlet-arcane", "name": "Sapphire Circlet", "file": "gear/circlet-arcane.png", "x": 0, "y": -37, "scale": 0.38 }
+  ],
+  "props": [
+    { "id": "orb-arcane", "name": "Levitating Runic Orb", "file": "gear/orb-arcane.png", "x": 32, "y": -24, "scale": 0.28 }
+  ]
+}
